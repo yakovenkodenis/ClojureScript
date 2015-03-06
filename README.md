@@ -1,0 +1,2 @@
+# ClojureScript
+First ClojureScript attempts
